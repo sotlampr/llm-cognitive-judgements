@@ -1,0 +1,601 @@
+task,value,response,num_value
+cakes,10,30 minutes,30
+cakes,10,20 minutes.,20
+cakes,10,20 minutes,20
+cakes,10,20 minutes,20
+cakes,10,20 minutes,20
+cakes,10,30 minutes.,30
+cakes,10,30 minutes,30
+cakes,10,30 minutes.,30
+cakes,10,40 minutes.,40
+cakes,10,30 minutes.,30
+cakes,10,40 minutes.,40
+cakes,10,20 minutes.,20
+cakes,10,20 minutes,20
+cakes,10,30 minutes.,30
+cakes,10,20 minutes.,20
+cakes,10,20 minutes,20
+cakes,10,30 minutes,30
+cakes,10,30 minutes.,30
+cakes,10,30 minutes.,30
+cakes,10,25 minutes,25
+cakes,20,40 minutes.,40
+cakes,20,40 minutes.,40
+cakes,20,40 minutes.,40
+cakes,20,40 minutes.,40
+cakes,20,40 minutes.,40
+cakes,20,40 minutes,40
+cakes,20,40 minutes.,40
+cakes,20,40 minutes.,40
+cakes,20,40 minutes.,40
+cakes,20,40 minutes.,40
+cakes,20,40 minutes.,40
+cakes,20,40 minutes.,40
+cakes,20,40 minutes.,40
+cakes,20,40 minutes.,40
+cakes,20,40 minutes,40
+cakes,20,40 minutes,40
+cakes,20,40 minutes,40
+cakes,20,40 minutes,40
+cakes,20,40 minutes.,40
+cakes,20,40 minutes,40
+cakes,35,55 minutes.,55
+cakes,35,70 minutes,70
+cakes,35,70 minutes,70
+cakes,35,70 minutes.,70
+cakes,35,70 minutes.,70
+cakes,35,70 minutes.,70
+cakes,35,70 minutes.,70
+cakes,35,70 minutes,70
+cakes,35,70 minutes.,70
+cakes,35,70 minutes.,70
+cakes,35,70 minutes.,70
+cakes,35,70 minutes,70
+cakes,35,70 minutes,70
+cakes,35,70 minutes.,70
+cakes,35,70 minutes,70
+cakes,35,70 minutes.,70
+cakes,35,70 minutes,70
+cakes,35,70 minutes.,70
+cakes,35,70 minutes,70
+cakes,35,70 minutes.,70
+cakes,50,60 minutes.,60
+cakes,50,70 minutes.,70
+cakes,50,90 minutes,90
+cakes,50,80 minutes,80
+cakes,50,90 minutes,90
+cakes,50,80 minutes.,80
+cakes,50,70 minutes,70
+cakes,50,90 minutes,90
+cakes,50,70 minutes,70
+cakes,50,60 minutes.,60
+cakes,50,90 minutes.,90
+cakes,50,70 minutes.,70
+cakes,50,60 Minutes,60
+cakes,50,70 minutes,70
+cakes,50,90 minutes.,90
+cakes,50,90 minutes,90
+cakes,50,70 minutes,70
+cakes,50,60 minutes,60
+cakes,50,60 minutes.,60
+cakes,50,70 minutes,70
+cakes,70,135 minutes,135
+cakes,70,170 minutes,170
+cakes,70,130 minutes,130
+cakes,70,135 minutes.,135
+cakes,70,110 minutes,110
+cakes,70,130 minutes,130
+cakes,70,135 minutes,135
+cakes,70,120 minutes,120
+cakes,70,80 minutes.,80
+cakes,70,140 minutes.,140
+cakes,70,140 minutes,140
+cakes,70,140 minutes.,140
+cakes,70,80 minutes.,80
+cakes,70,110 minutes.,110
+cakes,70,110 minutes,110
+cakes,70,120 minutes.,120
+cakes,70,110 minutes.,110
+cakes,70,140 minutes.,140
+cakes,70,90 minutes,90
+cakes,70,105 minutes.,105
+life_spans,18,79.5,80
+life_spans,18,84,84
+life_spans,18,80.,80
+life_spans,18,87,87
+life_spans,18,81,81
+life_spans,18,81.5,82
+life_spans,18,83,83
+life_spans,18,81,81
+life_spans,18,83,83
+life_spans,18,83,83
+life_spans,18,81,81
+life_spans,18,89,89
+life_spans,18,85,85
+life_spans,18,82.,82
+life_spans,18,81.,81
+life_spans,18,89,89
+life_spans,18,84.,84
+life_spans,18,85,85
+life_spans,18,83,83
+life_spans,18,82,82
+life_spans,39,83,83
+life_spans,39,78,78
+life_spans,39,79,79
+life_spans,39,81,81
+life_spans,39,82,82
+life_spans,39,81,81
+life_spans,39,86,86
+life_spans,39,79,79
+life_spans,39,78,78
+life_spans,39,85,85
+life_spans,39,77.,77
+life_spans,39,79,79
+life_spans,39,84.,84
+life_spans,39,82,82
+life_spans,39,78,78
+life_spans,39,79 years,79
+life_spans,39,77,77
+life_spans,39,80,80
+life_spans,39,77.3,77
+life_spans,39,81,81
+life_spans,61,81,81
+life_spans,61,86,86
+life_spans,61,81,81
+life_spans,61,87,87
+life_spans,61,88,88
+life_spans,61,75,75
+life_spans,61,89.,89
+life_spans,61,84.,84
+life_spans,61,79.,79
+life_spans,61,82.5,83
+life_spans,61,78,78
+life_spans,61,80,80
+life_spans,61,75,75
+life_spans,61,78,78
+life_spans,61,83,83
+life_spans,61,83,83
+life_spans,61,82,82
+life_spans,61,83.,83
+life_spans,61,81,81
+life_spans,61,83,83
+life_spans,83,85,85
+life_spans,83,87,87
+life_spans,83,93,93
+life_spans,83,90,90
+life_spans,83,87,87
+life_spans,83,87,87
+life_spans,83,85,85
+life_spans,83,86,86
+life_spans,83,93,93
+life_spans,83,87,87
+life_spans,83,86,86
+life_spans,83,90,90
+life_spans,83,86,86
+life_spans,83,86,86
+life_spans,83,87.,87
+life_spans,83,87,87
+life_spans,83,87,87
+life_spans,83,89,89
+life_spans,83,86,86
+life_spans,83,89,89
+life_spans,96,96,96
+life_spans,96,97,97
+life_spans,96,97,97
+life_spans,96,97,97
+life_spans,96,97,97
+life_spans,96,97,97
+life_spans,96,96,96
+life_spans,96,97,97
+life_spans,96,97,97
+life_spans,96,96,96
+life_spans,96,96,96
+life_spans,96,96,96
+life_spans,96,97,97
+life_spans,96,97,97
+life_spans,96,97,97
+life_spans,96,97,97
+life_spans,96,96.,96
+life_spans,96,96,96
+life_spans,96,97,97
+life_spans,96,97,97
+movie_grosses,1,3 million.,3
+movie_grosses,1,10 million dollars.,10
+movie_grosses,1,10 million dollars,10
+movie_grosses,1,5 million,5
+movie_grosses,1,10 million,10
+movie_grosses,1,10 million.,10
+movie_grosses,1,5 million dollars,5
+movie_grosses,1,5 million,5
+movie_grosses,1,10 million,10
+movie_grosses,1,10 million dollars,10
+movie_grosses,1,10 million,10
+movie_grosses,1,10 million.,10
+movie_grosses,1,10 million,10
+movie_grosses,1,10 million,10
+movie_grosses,1,10 million dollars.,10
+movie_grosses,1,10 million,10
+movie_grosses,1,10 million dollars,10
+movie_grosses,1,10 million dollars,10
+movie_grosses,1,10 million dollars,10
+movie_grosses,1,10 million,10
+movie_grosses,6,12 million dollars.,12
+movie_grosses,6,30 million,30
+movie_grosses,6,12 million,12
+movie_grosses,6,12 million dollars.,12
+movie_grosses,6,12 million dollars.,12
+movie_grosses,6,12 million dollars.,12
+movie_grosses,6,12 million dollars.,12
+movie_grosses,6,12 million dollars,12
+movie_grosses,6,12 million.,12
+movie_grosses,6,12 million dollars.,12
+movie_grosses,6,12 million dollars,12
+movie_grosses,6,12 million dollars,12
+movie_grosses,6,12000000,12
+movie_grosses,6,12000000,12
+movie_grosses,6,12 million dollars,12
+movie_grosses,6,12 million,12
+movie_grosses,6,12000000,12
+movie_grosses,6,12 million dollars,12
+movie_grosses,6,12 million dollars,12
+movie_grosses,6,12M,12
+movie_grosses,10,20 million dollars.,20
+movie_grosses,10,20 million dollars.,20
+movie_grosses,10,20 million dollars,20
+movie_grosses,10,20 million dollars.,20
+movie_grosses,10,150 million,150
+movie_grosses,10,20 million dollars.,20
+movie_grosses,10,20 million dollars.,20
+movie_grosses,10,20 million dollars.,20
+movie_grosses,10,20 million,20
+movie_grosses,10,20 million,20
+movie_grosses,10,20 million dollars.,20
+movie_grosses,10,20 million dollars,20
+movie_grosses,10,20 million dollars.,20
+movie_grosses,10,40 million dollars,40
+movie_grosses,10,20 million dollars.,20
+movie_grosses,10,20 million dollars.,20
+movie_grosses,10,20 million dollars.,20
+movie_grosses,10,10 million dollars,10
+movie_grosses,10,20 million dollars.,20
+movie_grosses,10,20 million dollars.,20
+movie_grosses,40,80 million dollars,80
+movie_grosses,40,80 million dollars.,80
+movie_grosses,40,80 million dollars.,80
+movie_grosses,40,80 million dollars,80
+movie_grosses,40,80 million dollars.,80
+movie_grosses,40,80 million.,80
+movie_grosses,40,80 million dollars,80
+movie_grosses,40,80 million,80
+movie_grosses,40,80 million dollars.,80
+movie_grosses,40,80 million dollars,80
+movie_grosses,40,80 million dollars.,80
+movie_grosses,40,80 million dollars,80
+movie_grosses,40,80 million.,80
+movie_grosses,40,80 million dollars.,80
+movie_grosses,40,100 million dollars,100
+movie_grosses,40,80 million,80
+movie_grosses,40,80 million.,80
+movie_grosses,40,80 million dollars.,80
+movie_grosses,40,80 million dollars,80
+movie_grosses,40,80 million dollars,80
+movie_grosses,100,200 million dollars.,200
+movie_grosses,100,200 million dollars.,200
+movie_grosses,100,200 million dollars.,200
+movie_grosses,100,200 million,200
+movie_grosses,100,200 million,200
+movie_grosses,100,200 million dollars.,200
+movie_grosses,100,200 million dollars.,200
+movie_grosses,100,200 million dollars,200
+movie_grosses,100,200 million dollars,200
+movie_grosses,100,200M,200
+movie_grosses,100,200 million dollars,200
+movie_grosses,100,200 million dollars,200
+movie_grosses,100,200 million dollars.,200
+movie_grosses,100,200 million dollars.,200
+movie_grosses,100,200 million dollars,200
+movie_grosses,100,200 million dollars.,200
+movie_grosses,100,200 million dollars.,200
+movie_grosses,100,200 million dollars.,200
+movie_grosses,100,200 million dollars,200
+movie_grosses,100,200 million,200
+poems,2,8,8
+poems,2,8,8
+poems,2,8,8
+poems,2,4,4
+poems,2,8,8
+poems,2,10,10
+poems,2,8,8
+poems,2,8,8
+poems,2,4,4
+poems,2,8,8
+poems,2,12,12
+poems,2,8,8
+poems,2,4,4
+poems,2,16,16
+poems,2,7,7
+poems,2,8,8
+poems,2,8,8
+poems,2,7,7
+poems,2,4,4
+poems,2,8,8
+poems,5,8,8
+poems,5,11,11
+poems,5,7,7
+poems,5,16,16
+poems,5,10,10
+poems,5,10,10
+poems,5,10,10
+poems,5,10,10
+poems,5,9,9
+poems,5,11,11
+poems,5,8,8
+poems,5,11,11
+poems,5,10,10
+poems,5,8,8
+poems,5,5,5
+poems,5,10,10
+poems,5,15,15
+poems,5,10,10
+poems,5,12,12
+poems,5,5,5
+poems,12,12,12
+poems,12,12,12
+poems,12,12,12
+poems,12,12,12
+poems,12,12,12
+poems,12,12,12
+poems,12,12,12
+poems,12,12,12
+poems,12,12,12
+poems,12,12,12
+poems,12,12,12
+poems,12,12,12
+poems,12,12,12
+poems,12,12,12
+poems,12,12.,12
+poems,12,12,12
+poems,12,12,12
+poems,12,12,12
+poems,12,12,12
+poems,12,12,12
+poems,32,32,32
+poems,32,32,32
+poems,32,32.,32
+poems,32,32,32
+poems,32,32,32
+poems,32,32.,32
+poems,32,32,32
+poems,32,32.,32
+poems,32,32,32
+poems,32,32,32
+poems,32,32,32
+poems,32,32,32
+poems,32,32,32
+poems,32,32,32
+poems,32,32,32
+poems,32,33,33
+poems,32,32,32
+poems,32,32,32
+poems,32,33,33
+poems,32,32,32
+poems,67,67,67
+poems,67,67,67
+poems,67,67,67
+poems,67,67,67
+poems,67,67,67
+poems,67,67,67
+poems,67,67,67
+poems,67,67,67
+poems,67,67,67
+poems,67,67,67
+poems,67,67,67
+poems,67,67,67
+poems,67,67,67
+poems,67,67,67
+poems,67,67,67
+poems,67,67,67
+poems,67,67,67
+poems,67,67,67
+poems,67,67,67
+poems,67,67,67
+representatives,1,8,8
+representatives,1,2 years,2
+representatives,1,2 years,2
+representatives,1,5,5
+representatives,1,11 years,11
+representatives,1,11 years,11
+representatives,1,6,6
+representatives,1,12 years.,12
+representatives,1,2 years,2
+representatives,1,11,11
+representatives,1,5,5
+representatives,1,11 years,11
+representatives,1,6,6
+representatives,1,2 years,2
+representatives,1,2 years,2
+representatives,1,9 years.,9
+representatives,1,5,5
+representatives,1,2 years,2
+representatives,1,8,8
+representatives,1,4,4
+representatives,3,6,6
+representatives,3,6 years,6
+representatives,3,6,6
+representatives,3,6 years,6
+representatives,3,6,6
+representatives,3,6 years,6
+representatives,3,6,6
+representatives,3,6 years,6
+representatives,3,6 years,6
+representatives,3,6,6
+representatives,3,6 years,6
+representatives,3,6 years,6
+representatives,3,6,6
+representatives,3,6 years,6
+representatives,3,6 years,6
+representatives,3,6,6
+representatives,3,6 years,6
+representatives,3,6,6
+representatives,3,6 years,6
+representatives,3,6 years,6
+representatives,7,14 years,14
+representatives,7,14,14
+representatives,7,14 years.,14
+representatives,7,14,14
+representatives,7,14 years,14
+representatives,7,7 years,7
+representatives,7,7 years,7
+representatives,7,14,14
+representatives,7,14,14
+representatives,7,14 years,14
+representatives,7,14,14
+representatives,7,14,14
+representatives,7,14,14
+representatives,7,14,14
+representatives,7,14 years,14
+representatives,7,14,14
+representatives,7,14,14
+representatives,7,14 years,14
+representatives,7,14 years,14
+representatives,7,14,14
+representatives,15,15 years,15
+representatives,15,15,15
+representatives,15,15 years.,15
+representatives,15,15 years.,15
+representatives,15,15 years.,15
+representatives,15,15,15
+representatives,15,15 years,15
+representatives,15,15 years,15
+representatives,15,15 years.,15
+representatives,15,15 years,15
+representatives,15,15,15
+representatives,15,15,15
+representatives,15,30 years,30
+representatives,15,15 years.,15
+representatives,15,15 years,15
+representatives,15,15,15
+representatives,15,15,15
+representatives,15,15 years.,15
+representatives,15,15,15
+representatives,15,15 years.,15
+representatives,31,31,31
+representatives,31,31 years,31
+representatives,31,31,31
+representatives,31,31,31
+representatives,31,31 years,31
+representatives,31,31,31
+representatives,31,31 years,31
+representatives,31,31,31
+representatives,31,31,31
+representatives,31,31,31
+representatives,31,31 years.,31
+representatives,31,31,31
+representatives,31,31,31
+representatives,31,31 years,31
+representatives,31,31,31
+representatives,31,31 years,31
+representatives,31,31,31
+representatives,31,31 years,31
+representatives,31,31 years,31
+representatives,31,31,31
+waiting_time,1,60,60
+waiting_time,1,2,2
+waiting_time,1,1,1
+waiting_time,1,2,2
+waiting_time,1,2,2
+waiting_time,1,2 minutes,2
+waiting_time,1,2,2
+waiting_time,1,2 minutes,2
+waiting_time,1,2 minutes.,2
+waiting_time,1,1,1
+waiting_time,1,2,2
+waiting_time,1,1,1
+waiting_time,1,2,2
+waiting_time,1,2 minutes.,2
+waiting_time,1,2,2
+waiting_time,1,2 minutes,2
+waiting_time,1,11 minutes,11
+waiting_time,1,2,2
+waiting_time,1,2,2
+waiting_time,1,3 minutes.,3
+waiting_time,3,6,6
+waiting_time,3,6,6
+waiting_time,3,6 minutes.,6
+waiting_time,3,6 minutes,6
+waiting_time,3,6 minutes,6
+waiting_time,3,6,6
+waiting_time,3,6 minutes,6
+waiting_time,3,6,6
+waiting_time,3,6,6
+waiting_time,3,6 minutes.,6
+waiting_time,3,6 minutes.,6
+waiting_time,3,6,6
+waiting_time,3,6,6
+waiting_time,3,6,6
+waiting_time,3,6 minutes,6
+waiting_time,3,6 minutes.,6
+waiting_time,3,6,6
+waiting_time,3,6,6
+waiting_time,3,6 minutes,6
+waiting_time,3,6 minutes,6
+waiting_time,7,14 minutes,14
+waiting_time,7,14 minutes.,14
+waiting_time,7,14,14
+waiting_time,7,14 minutes,14
+waiting_time,7,14 minutes,14
+waiting_time,7,14,14
+waiting_time,7,14,14
+waiting_time,7,14 minutes.,14
+waiting_time,7,14,14
+waiting_time,7,14 minutes,14
+waiting_time,7,14 minutes.,14
+waiting_time,7,14 minutes,14
+waiting_time,7,14 minutes,14
+waiting_time,7,14 minutes.,14
+waiting_time,7,14 minutes,14
+waiting_time,7,14,14
+waiting_time,7,14 minutes.,14
+waiting_time,7,14 minutes,14
+waiting_time,7,14 minutes,14
+waiting_time,7,14 minutes,14
+waiting_time,11,21 minutes,21
+waiting_time,11,18 minutes,18
+waiting_time,11,21 minutes,21
+waiting_time,11,22 minutes,22
+waiting_time,11,21 minutes.,21
+waiting_time,11,21 minutes,21
+waiting_time,11,21 minutes,21
+waiting_time,11,21 minutes,21
+waiting_time,11,11,11
+waiting_time,11,11 minutes,11
+waiting_time,11,21 minutes,21
+waiting_time,11,21 minutes,21
+waiting_time,11,21 minutes.,21
+waiting_time,11,21,21
+waiting_time,11,21 minutes.,21
+waiting_time,11,11,11
+waiting_time,11,21,21
+waiting_time,11,21,21
+waiting_time,11,21 mins,21
+waiting_time,11,21 minutes.,21
+waiting_time,23,23,23
+waiting_time,23,23,23
+waiting_time,23,23,23
+waiting_time,23,23 minutes.,23
+waiting_time,23,23,23
+waiting_time,23,23,23
+waiting_time,23,23 minutes.,23
+waiting_time,23,43 minutes,43
+waiting_time,23,43 minutes.,43
+waiting_time,23,43 minutes,43
+waiting_time,23,23,23
+waiting_time,23,23,23
+waiting_time,23,23 minutes.,23
+waiting_time,23,23,23
+waiting_time,23,23,23
+waiting_time,23,23,23
+waiting_time,23,23,23
+waiting_time,23,23,23
+waiting_time,23,23 minutes,23
+waiting_time,23,23,23
