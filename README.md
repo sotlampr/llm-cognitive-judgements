@@ -14,8 +14,8 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDeri
 
 #### `data`
 - `data/{TASK}-xaxis.csv`: The $t$ values that were used as prompt from [^1]
-- `data/{TASK}-participants.csv`: Participants' answers for $t_total$ from [^1]
-- `data/{TASK}-model.csv`: Model predictions for $t_total$ from [^1]
+- `data/{TASK}-participants.csv`: Participants' answers for $t_\text{total}$ from [^1]
+- `data/{TASK}-model.csv`: Model predictions for $t_\text{total}$ from [^1]
 
 #### `data/prompts`
 - `data/prompts/{TASK}`: Prompts for each task with `%d` placeholder for the actual value from [^1]
